@@ -77,14 +77,6 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 ---
 
-## Ejecución rápida
-
-```bash
-npm install  
-npx playwright install  
-npm test  
-npm run report
-
 ## Instalación
 
 1. Clonar el repositorio:
