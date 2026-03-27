@@ -85,6 +85,8 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 git clone <URL_DEL_REPOSITORIO>
 cd Reto-Front
 
+---
+
 2. Instalar dependencias
 ```bash
 npm install
