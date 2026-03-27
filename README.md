@@ -84,21 +84,25 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 ```bash
 git clone <URL_DEL_REPOSITORIO>
 cd Reto-Front
-
----
+```
 
 2. Instalar dependencias
+3. 
 ```bash
 npm install
+```
 
 3. Instalar navegadores de Playwright
+   
 ```bash
 npx playwright install
+```
 
 ## Ejecución de pruebas
 
 ```bash
 npm test
+```
 
 ## Generación de reportes
 
@@ -106,8 +110,10 @@ npm test
 
 ```bash
 npm test
+```
 
 2. Generar el reporte HTML
 
 ```bash
 npm run report
+```
