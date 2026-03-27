@@ -87,7 +87,7 @@ cd Reto-Front
 ```
 
 2. Instalar dependencias
-3. 
+
 ```bash
 npm install
 ```
